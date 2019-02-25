@@ -6,7 +6,7 @@ import (
 	"fmt"
 )
 
-// calculate the mean of two numbers 
+calculate the mean of two numbers 
 func main() {
 
 	x, y := 1.0, 2.0
