@@ -9,8 +9,7 @@ import (
 // calculate the mean of two numbers 
 func main() {
 
-	x := 1.0
-	y := 2.0
+	x, y := 1.0, 2.0
 
 	fmt.Printf("x=%v, type of %T\n", x, x)
 	//fmt.Printf function gets a template to print and a value to fill the function
